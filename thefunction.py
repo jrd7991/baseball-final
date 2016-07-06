@@ -1,0 +1,3 @@
+def teamstats(atbats):
+	vals = {}
+	
